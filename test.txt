@@ -1,4 +1,2 @@
-1. fix-bug commit
 
-
-2. fix-bug commit2
+3. fix-bug commit3
