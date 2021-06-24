@@ -1,6 +1,1 @@
-dev commit
-1. fix-bug commit
-
-
-2. fix-bug commit2
-dev commit2
+dev commit1
