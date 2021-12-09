@@ -1,4 +1,8 @@
-dev commit1
+dev add 1
+
+dev add 2
+
+local add
 
 
 fix-bug commit
